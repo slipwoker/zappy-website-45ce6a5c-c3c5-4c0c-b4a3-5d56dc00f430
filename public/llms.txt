@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Access 1000+ unblocked games at school with MXM.1432. Play instantly without restrictions. Perfect for students seeking entertainment during breaks.
+
+### Catalog
+https://example.com/catalog
+Explore over 1000 unblocked games in our catalog. From action to puzzles, find your favorite games accessible anywhere. Start playing now at MXM.1432.
+
+### About
+https://example.com/about
+MXM.1432 delivers unblocked entertainment to students everywhere. Learn how we provide safe, accessible gaming experiences without restrictions or barriers.
+
+### Contact
+https://example.com/contact
+Need help accessing games or have questions? Contact MXM.1432 for fast support. We&#39;re here to ensure students enjoy seamless, unblocked gaming experiences.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
